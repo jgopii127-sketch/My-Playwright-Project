@@ -1,0 +1,16 @@
+{
+  "name": "playwright-workout",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "author": "jeya gopi",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.3"
+  }
+}
