@@ -17,8 +17,7 @@ test('Handle CheckBox', async ({ page }) => {
 
     await page.waitForTimeout(2000);
 
-    console.log("Hii")
-
+    
     // Uncheck only first two
     for (const b in checkBoxLoc) {
 
